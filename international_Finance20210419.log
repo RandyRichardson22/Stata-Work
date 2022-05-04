@@ -1,0 +1,17 @@
+
+. quietly log off
+
+. scalar list receivablesFutures
+receivablesFutures =    2231000
+
+. quietly log off
+
+. scalar list receivablesForward
+receivablesForward =    2208000
+
+. quietly log off
+
+. scalar list receivablesNoHedging
+receivablesNoHedging =    2142450
+
+. quietly log off
